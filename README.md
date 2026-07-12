@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Hasini Unnamatla
+#  Hasini Unnamatla
 
 ### AI Engineer • Machine Learning • Large Language Models • Full-Stack AI Developer
 
