@@ -4,7 +4,7 @@
 
 ### AI Engineer • Machine Learning • Large Language Models • Full-Stack AI Developer
 
-Building AI-powered applications that solve real-world problems using Machine Learning, Large Language Models, and modern web technologies.
+Building AI applications using Machine Learning, Large Language Models, and modern web technologies.
 
 🎓 B.Tech Computer Science & Engineering (AI & ML) Student
 
