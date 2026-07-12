@@ -37,21 +37,6 @@ My areas of interest include:
 
 # 🚀 Featured Projects
 
-## 🏥 MediAssist – AI Healthcare Chatbot
-
-An AI-powered healthcare assistant developed using Flask and Qwen LLM that provides healthcare-related information through an interactive chatbot interface.
-
-**Tech Stack**
-
-- Python
-- Flask
-- Qwen LLM
-- HTML
-- CSS
-- JavaScript
-- JSON Dataset
-
----
 
 ## 🌬️ Wind Energy Prediction
 
