@@ -1,16 +1,171 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**hasini3107/hasini3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hasini Unnamatla
 
-Here are some ideas to get you started:
+### AI Engineer • Machine Learning • Large Language Models • Full-Stack AI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building AI-powered applications that solve real-world problems using Machine Learning, Large Language Models, and modern web technologies.
+
+🎓 B.Tech Computer Science & Engineering (AI & ML) Student
+
+🧠 Python • Machine Learning • LLMs • Flask • FastAPI • React • SQL • MongoDB
+
+📍 India
+
+</div>
+
+---
+
+# 🌟 What I Build
+
+I enjoy building practical AI applications that combine intelligent models with modern web technologies. My focus is on creating solutions that are useful, scalable, and easy to use.
+
+My areas of interest include:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💬 Large Language Models (LLMs)
+- 🚀 Generative AI
+- 🐍 Python Development
+- 🌐 Flask & FastAPI Backend Development
+- ⚛️ React.js Frontend Development
+- 🗄️ SQL & MongoDB
+- 📊 Data Analysis
+- ☁️ AI Application Deployment
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 MediAssist – AI Healthcare Chatbot
+
+An AI-powered healthcare assistant developed using Flask and Qwen LLM that provides healthcare-related information through an interactive chatbot interface.
+
+**Tech Stack**
+
+- Python
+- Flask
+- Qwen LLM
+- HTML
+- CSS
+- JavaScript
+- JSON Dataset
+
+---
+
+## 🌬️ Wind Energy Prediction
+
+Machine Learning project that predicts wind turbine power generation using historical wind data and regression algorithms.
+
+**Tech Stack**
+
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- Streamlit
+
+---
+
+## 🎉 Dream Events
+
+A full-stack event management platform that allows users to explore and manage event-related services.
+
+**Tech Stack**
+
+- Flask
+- HTML
+- CSS
+- JavaScript
+- MongoDB
+
+---
+
+## 🎓 UniFLOO Topic Management
+
+Academic content management system developed for organizing subjects, topics, and learning resources.
+
+**Tech Stack**
+
+- React.js
+- Node.js
+- SQL
+- JavaScript
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+- Python
+- JavaScript
+- SQL
+
+### AI & Machine Learning
+
+- Machine Learning
+- Large Language Models
+- Scikit-learn
+- Pandas
+- NumPy
+
+### Backend
+
+- Flask
+- FastAPI
+
+### Frontend
+
+- React.js
+- HTML
+- CSS
+- JavaScript
+
+### Database
+
+- MongoDB
+- MySQL
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Streamlit
+- Postman
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Python
+- Data Structures & Algorithms
+- FastAPI
+- Large Language Models
+- LoRA Fine-tuning
+- AI System Design
+- Docker
+- Cloud Deployment
+
+---
+
+# 🎯 Goals
+
+- Become an AI Engineer
+- Build production-ready AI applications
+- Contribute to Open Source
+- Learn MLOps
+- Master LLM Development
+- Work on impactful AI products
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/hasini3107
+- LinkedIn: https://www.linkedin.com/in/hasiniunnamatla/
+
+---
+
+⭐ *Always learning, always building, and always improving.*
