@@ -65,18 +65,7 @@ A full-stack event management platform that allows users to explore and manage e
 
 ---
 
-## 🎓 UniFLOO Topic Management
 
-Academic content management system developed for organizing subjects, topics, and learning resources.
-
-**Tech Stack**
-
-- React.js
-- Node.js
-- SQL
-- JavaScript
-
----
 
 # 💻 Tech Stack
 
