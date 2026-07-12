@@ -8,9 +8,8 @@ Building AI applications using Machine Learning, Large Language Models, and mode
 
 🎓 B.Tech Computer Science & Engineering (AI & ML) Student
 
-🧠 Python • Machine Learning • LLMs • Flask • FastAPI • React • SQL • MongoDB
+🧠Machine Learning • 💬LLMs  • 🌐FastAPI • ⚛️React
 
-📍 India
 
 </div>
 
