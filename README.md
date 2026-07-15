@@ -1,27 +1,71 @@
-
 <div align="center">
 
 #  Hasini Unnamatla
 
 ### AI Engineer • Machine Learning • Large Language Models • Full-Stack AI Developer
 
-Building AI-powered applications using Machine Learning, Large Language Models, and modern web technologies.
+Building AI applications using Machine Learning, Large Language Models, and modern web technologies.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;LLM+Developer;Python+Developer;Full-Stack+AI+Developer;Always+Learning+New+Things" />
+🎓 B.Tech Computer Science & Engineering (AI & ML) Student
+
+🧠Machine Learning • 💬LLMs  • 🌐FastAPI • ⚛️React
+
 
 </div>
 
 ---
 
-## 🌐 Connect with Me
+# 🌟 What I Build
 
-<p align="left">
-<a href="https://github.com/hasini3107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/hasini-unnamatla-365995334/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
-</p>
+I enjoy building practical AI applications that combine intelligent models with modern web technologies. My focus is on creating solutions that are useful, scalable, and easy to use.
+
+My areas of interest include:
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💬 Large Language Models (LLMs)
+- 🚀 Generative AI
+- 🐍 Python Development
+- 🌐 Flask & FastAPI Backend Development
+- ⚛️ React.js Frontend Development
+- 🗄️ SQL & MongoDB
+- 📊 Data Analysis
+- ☁️ AI Application Deployment
 
 ---
+
+# 🚀 Featured Projects
+
+
+## 🌬️ Wind Energy Prediction
+
+Machine Learning project that predicts wind turbine power generation using historical wind data and regression algorithms.
+
+**Tech Stack**
+
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- Streamlit
+
+---
+
+## 🎉 Dream Events
+
+A full-stack event management platform that allows users to explore and manage event-related services.
+
+**Tech Stack**
+
+- Flask
+- HTML
+- CSS
+- JavaScript
+- MongoDB
+
+---
+
+
 
 # 💻 Tech Stack
 
@@ -31,6 +75,7 @@ Building AI-powered applications using Machine Learning, Large Language Models, 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### AI & Machine Learning
 
@@ -45,16 +90,20 @@ Building AI-powered applications using Machine Learning, Large Language Models, 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 
+
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
+
+
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
 
 ### Tools
 
@@ -66,93 +115,35 @@ Building AI-powered applications using Machine Learning, Large Language Models, 
 
 ---
 
-# 🚀 Featured Projects
-
-### 🌿 Wind Energy Prediction
-
-Machine Learning project that predicts renewable energy generation using weather parameters.
-
-**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Streamlit
-
----
-
-### 🎉 Dream Events
-
-Full-stack event management platform built using Flask and MongoDB.
-
-**Tech Stack:** Flask • HTML • CSS • JavaScript • MongoDB
-
----
-
-### 💊 Medicine Reminder Bot
-
-An AI-powered medicine reminder assistant using Large Language Models.
-
-**Tech Stack:** Python • LLM • Ollama • Flask
-
----
-
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Advanced Python
 - Data Structures & Algorithms
-- Machine Learning
 - FastAPI
 - Large Language Models
-- Docker
+- LoRA Fine-tuning
 - AI System Design
+- Docker
 - Cloud Deployment
 
 ---
 
-# 📊 GitHub Statistics
+# 🎯 Goals
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasini3107&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasini3107&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hasini3107&theme=tokyonight"/>
-
-</p>
+- Become an AI Engineer
+- Build production-ready AI applications
+- Contribute to Open Source
+- Learn MLOps
+- Master LLM Development
+- Work on impactful AI products
 
 ---
 
-# 🏆 GitHub Trophies
+# 📫 Connect With Me
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hasini3107&theme=tokyonight&row=1&column=7"/>
-
-</p>
+- GitHub: https://github.com/hasini3107
+- LinkedIn: https://www.linkedin.com/in/hasiniunnamatla/
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasini3107&theme=tokyo-night"/>
-
-</p>
-
----
-
-<div align="center">
-
-### 💡 Quote
-
-> *"Always learning, always building, and always improving."*
-
-⭐ Thanks for visiting my profile!
-
-</div>
+⭐ *Always learning, always building, and always improving.*
