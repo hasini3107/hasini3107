@@ -36,7 +36,6 @@ My areas of interest include:
 
 # 🚀 Featured Projects
 
-
 ## 🌬️ Wind Energy Prediction
 
 Machine Learning project that predicts wind turbine power generation using historical wind data and regression algorithms.
@@ -62,6 +61,43 @@ A full-stack event management platform that allows users to explore and manage e
 - CSS
 - JavaScript
 - MongoDB
+
+---
+
+## 🛍️ Retail Smart
+
+A full-stack retail and e-commerce management platform that enables businesses to manage products, inventory, orders, payments, returns, and sales analytics through a secure and responsive dashboard.
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express.js
+- Firebase Firestore
+- Firebase Authentication
+- Bootstrap
+- Chart.js
+
+---
+
+## 📄 PDF Harmony
+
+A production-ready online PDF toolkit that provides tools for PDF organization, conversion, editing, OCR, security, optimization, and document viewing through a modern and responsive web interface.
+
+**Tech Stack**
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Node.js
+- Express.js
+- Firebase Firestore
+- Firebase Authentication
+- pdf-lib
+- PDF.js
+- Tesseract.js
+- LibreOffice
 
 ---
 
