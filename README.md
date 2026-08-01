@@ -8,7 +8,7 @@ Building AI applications using Machine Learning, Large Language Models, and mode
 
 🎓 B.Tech Computer Science & Engineering (AI & ML) Student
 
-🧠Machine Learning • 💬LLMs  • 🌐FastAPI • ⚛️React
+🧠Machine Learning • 💬LLMs  • 🌐FastAPI • 🗣️NLP
 
 
 </div>
