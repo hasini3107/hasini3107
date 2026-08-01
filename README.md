@@ -50,20 +50,6 @@ Machine Learning project that predicts wind turbine power generation using histo
 
 ---
 
-## 🎉 Dream Events
-
-A full-stack event management platform that allows users to explore and manage event-related services.
-
-**Tech Stack**
-
-- Flask
-- HTML
-- CSS
-- JavaScript
-- MongoDB
-
----
-
 ## 🛍️ Retail Smart
 
 A full-stack retail and e-commerce management platform that enables businesses to manage products, inventory, orders, payments, returns, and sales analytics through a secure and responsive dashboard.
