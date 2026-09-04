@@ -106,7 +106,7 @@ A production-ready online PDF toolkit that provides tools for PDF organization, 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
+![SQL](https://img.shields.io/badge/SQL-FF6F00?style=for-the-badge)
 ### Backend
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
@@ -147,6 +147,7 @@ A production-ready online PDF toolkit that provides tools for PDF organization, 
 - AI System Design
 - Docker
 - Cloud Deployment
+- SQL
 
 ---
 
